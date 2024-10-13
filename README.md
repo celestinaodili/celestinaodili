@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Celestina Odili
-- 👀 I’m a DevOps engineer.
+- 👀 I’m a Cloud Solution engineer.
 - 🌱 I’m currently learning to improve my skills in cloud computing.
-- 💞️ I’m looking to collaborate on DevOps and cloud related topics.
+- 💞️ I’m looking to collaborate on cloud related topics.
 - 📫 You can reach me on https://github.com/celestinaodili or www.linkedin.com/in/celestina-odili.
 
 
